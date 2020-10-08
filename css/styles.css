@@ -1,0 +1,59 @@
+
+
+body {
+  font-family: 'montserrat';
+}
+
+
+#title {
+  background-color: #f9f7f7;
+  color: #590d82;
+  font-size: 1rem;
+}
+
+h1 {
+  padding-top: 2rem;
+  color: #0c056d;
+  text-align: right;
+}
+
+.navbar {
+  padding-bottom: 1rem;
+
+}
+Navigation bar
+.navbar-brand {
+}
+
+.nav-item {
+  padding: 0 18px;
+
+}
+
+.nav-link {
+  font-color: #b9bbdf;
+  font-size: 1.2rem;
+  font-family: 'montserrat'
+
+
+}
+
+
+p {
+  color: #0c056d;
+  font-family: 'Dancing Script' cursive;
+}
+.container-fluid {
+  padding: 3% 9%
+}
+
+.chica-img {
+  width: 10%;
+  padding-bottom: 3%
+
+}
+
+.unaiza-img{
+  padding-bottom: 5.5rem;
+
+}
